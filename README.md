@@ -9,15 +9,15 @@ C:\Windows\Microsoft.Net\Framework64\v4.0.30319\MSBuild.exe c:\path\to\MSBuildSh
 
 
 # From within the prompt, Run the Project of choice.
-*Template
-C:\Windows\Microsoft.Net\Framework64\v4.0.30319\MSBuild.exe c:\path\to\FILENAME.xml
+*Template 
+C:\Windows\Microsoft.Net\Framework64\v4.0.30319\MSBuild.exe c:\path\to\FILENAME.xml 
 
-Use any of the prebuilt scripts or make you own.
+Use any of the prebuilt scripts or make you own. 
 
-*Example
-(x64)
-C:\Windows\Microsoft.Net\Framework64\v4.0.30319\MSBuild.exe c:\Temp\Rubeus-asrep_net_4_7_2-args-outfile.xml
+*Example 
+(x64) 
+C:\Windows\Microsoft.Net\Framework64\v4.0.30319\MSBuild.exe c:\Temp\Rubeus-asrep_net_4_7_2-args-outfile.xml 
 
-(x86)
-C:\Windows\Microsoft.Net\Framework\v4.0.30319\MSBuild.exe c:\Temp\Rubeus-asrep_net_4_7_2-args-outfile.xml
+(x86) 
+C:\Windows\Microsoft.Net\Framework\v4.0.30319\MSBuild.exe c:\Temp\Rubeus-asrep_net_4_7_2-args-outfile.xml 
 
